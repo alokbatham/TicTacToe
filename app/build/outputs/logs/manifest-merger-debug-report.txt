@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\479ba2dc0834aa9ef8719f67d6b2701a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\19010909c8115b1436adb029e032f8fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\8ded9b829ea09f52f8e377353851bf70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\685ba361719884b20a8aa7eccc5af957\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\19fc58283b460ffc9c5c58110d83286a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\e6223a9fc0083a53dff5839dd93672e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\be52409227e05df7cfe15e721007a728\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\fddfe28468e06dde30e144a46523174b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\7859b9f7e19dcc9429f8a8a6777a3aac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6c4fe15c73b1d27df3a7876bb20430a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\e6c940df865692218ddddbc92014b26c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\93a82553f45b174e17f2772fd20a163c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\507a90535d61ae943dbf72d9daf38d3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\03cd23d449027cb3ad1d780710571f48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9981a54782805b874a268b23b00bbeef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\082452c60f6c1891878c97fd0abb0f33\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6aa7b17002847c9824ce858e07fe1d93\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\0c0bd499485a9585534e8061e8501c63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\72a18535f94210f1406dfcd8cd61e2b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\45e436b47f9f5a021d9f1766e0541040\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6f424e3de592bbb6f0809b550a5c52be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9549e827fb0db1e8d5bd81bbf76d62d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\40776ffda4defea2cde49d98d6f44790\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6f3387d2a526fe28e4893c4a526828a5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\c1f2882d150cdf77184b0f10695d4b21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\58fa9801598deef90e98d38dbc01fea4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:11-42
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:4:5-19:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9981a54782805b874a268b23b00bbeef\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9981a54782805b874a268b23b00bbeef\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\082452c60f6c1891878c97fd0abb0f33\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\082452c60f6c1891878c97fd0abb0f33\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9981a54782805b874a268b23b00bbeef\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.rsl.com.tictactoe.MainActivity
+ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:15:17-86
+	android:name
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\479ba2dc0834aa9ef8719f67d6b2701a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\479ba2dc0834aa9ef8719f67d6b2701a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\19010909c8115b1436adb029e032f8fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\19010909c8115b1436adb029e032f8fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\8ded9b829ea09f52f8e377353851bf70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\8ded9b829ea09f52f8e377353851bf70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\685ba361719884b20a8aa7eccc5af957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\685ba361719884b20a8aa7eccc5af957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\19fc58283b460ffc9c5c58110d83286a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\19fc58283b460ffc9c5c58110d83286a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\e6223a9fc0083a53dff5839dd93672e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\e6223a9fc0083a53dff5839dd93672e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\be52409227e05df7cfe15e721007a728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\be52409227e05df7cfe15e721007a728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\fddfe28468e06dde30e144a46523174b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\fddfe28468e06dde30e144a46523174b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\7859b9f7e19dcc9429f8a8a6777a3aac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\7859b9f7e19dcc9429f8a8a6777a3aac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6c4fe15c73b1d27df3a7876bb20430a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6c4fe15c73b1d27df3a7876bb20430a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\e6c940df865692218ddddbc92014b26c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\e6c940df865692218ddddbc92014b26c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\93a82553f45b174e17f2772fd20a163c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\93a82553f45b174e17f2772fd20a163c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\507a90535d61ae943dbf72d9daf38d3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\507a90535d61ae943dbf72d9daf38d3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\03cd23d449027cb3ad1d780710571f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\03cd23d449027cb3ad1d780710571f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9981a54782805b874a268b23b00bbeef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9981a54782805b874a268b23b00bbeef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\082452c60f6c1891878c97fd0abb0f33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\082452c60f6c1891878c97fd0abb0f33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6aa7b17002847c9824ce858e07fe1d93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6aa7b17002847c9824ce858e07fe1d93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\0c0bd499485a9585534e8061e8501c63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\0c0bd499485a9585534e8061e8501c63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\72a18535f94210f1406dfcd8cd61e2b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\72a18535f94210f1406dfcd8cd61e2b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\45e436b47f9f5a021d9f1766e0541040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\45e436b47f9f5a021d9f1766e0541040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6f424e3de592bbb6f0809b550a5c52be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6f424e3de592bbb6f0809b550a5c52be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9549e827fb0db1e8d5bd81bbf76d62d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\9549e827fb0db1e8d5bd81bbf76d62d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\40776ffda4defea2cde49d98d6f44790\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\40776ffda4defea2cde49d98d6f44790\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6f3387d2a526fe28e4893c4a526828a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\6f3387d2a526fe28e4893c4a526828a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\c1f2882d150cdf77184b0f10695d4b21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\c1f2882d150cdf77184b0f10695d4b21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\58fa9801598deef90e98d38dbc01fea4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Alok Batham\.gradle\caches\transforms-2\files-2.1\58fa9801598deef90e98d38dbc01fea4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alok Batham\Desktop\data\TicTacToe\app\src\main\AndroidManifest.xml
